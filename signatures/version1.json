@@ -823,6 +823,14 @@
       "created_at": "2023-01-15T09:25:53Z",
       "repoId": 62262074,
       "pullRequestNo": 1398
+    },
+    {
+      "name": "sfc-gh-wfateem",
+      "id": 72769898,
+      "comment_id": 1385772446,
+      "created_at": "2023-01-17T17:25:34Z",
+      "repoId": 62267978,
+      "pullRequestNo": 1223
     }
   ]
 }
