@@ -15,12 +15,3 @@ By signing this contributor license agreement, I understand and agree that my Co
 6. NO SUPPORT. You are not expected to provide support for Your Contributions, except to the extent You desire to provide support. You may provide support for free, for a fee, or not at all. Unless required by applicable law or agreed to in writing, You provide Your Contributions on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
 7. Section 7 is intentionally omitted.
 8. NOTICE TO SNOWFLAKE. You agree to notify Snowflake of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.
-
-
-
-
-Name (“You”):                 _________________________________________
-Signature:                 _________________________________________
-Date:                         _________________________________________
-Email:                         _________________________________________
-Address:                 _________________________________________
