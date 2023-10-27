@@ -1695,6 +1695,14 @@
       "created_at": "2023-10-26T23:17:45Z",
       "repoId": 359558698,
       "pullRequestNo": 1111
+    },
+    {
+      "name": "codetycon",
+      "id": 32788804,
+      "comment_id": 1782953927,
+      "created_at": "2023-10-27T13:49:39Z",
+      "repoId": 116746807,
+      "pullRequestNo": 677
     }
   ]
 }
